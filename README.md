@@ -1,54 +1,48 @@
-<p align="center">
-  <img src="https://learn.microsoft.com/en-us/gaming/playfab/sdks/unreal/media/unreal_banner1.png" alt="MasterHead">
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sumit-Dhakal.Sumit-Dhakal" />
 
-<h1 align="center">Hi 👋, I'm Sumit Kumar Dhakal</h1>
-<h3 align="center">I'm an Aspiring Game Developer specializing in Unreal Engine (C++ & Blueprints).</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumit+Kumar+Dhakal!;" />
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Aspiring Game Developer | Unreal Engine Enthusiast</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sumit-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-dhakal" />
-</p>
+<br/>
 
-- 🌱 I’m currently learning **Unreal Engine**
-- 💬 Ask me about **Game Development**
-- 📫 How to reach me: **Sumitkumardhakal1@gmail.com**
+<div align="center">
+ 
+ 🔭 I’m currently working on **game development projects using Unreal Engine**
+ 
+ 🌱 I’m currently learning **Advanced AI, Multiplayer Networking & Optimization Techniques**
 
----
+ 💬 Ask me about **Unreal Engine, Blueprints, C++, Game AI, or anything [here](https://github.com/Sumit-Dhakal/Sumit-Dhakal/issues)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sumit-kumar-dhakal-19630934b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Kumar Dhakal LinkedIn" height="30" width="40" />
+ ⚡ Fun fact **A* pathfinding is my superpower in game AI!**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:sumitkumardhakal1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100016740365232" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sumit Kumar Dhakal Facebook" height="30" width="40" />
+  <a href="https://linkedin.com/in/sumit-dhakal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
----
+<hr/>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 15px"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 0 15px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0 15px"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 0 15px"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" style="margin: 0 15px"/>
-  </a>
-</p>
+<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,html,css,php,js,java,mysql,vscode,github,git" />
+    <br>
+</div>
 
----
+<br/>
+<hr/>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
