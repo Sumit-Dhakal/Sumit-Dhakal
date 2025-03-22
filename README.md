@@ -37,32 +37,35 @@
 <h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,html,css,php,js,java,mysql,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,html,css,js,php,mysql,github" />
     <br>
 </div>
 
 <br/>
 <hr/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
+  </picture>
+</div>
+
 
 <h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-dhakal&show_icons=true&locale=en&layout=compact" alt="sumit-dhakal" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-dhakal&show_icons=true&locale=en" alt="sumit-dhakal" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sumit-Dhakal&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sumit-Dhakal&show_icons=true&theme=light" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Dhakal&show_icons=true" alt="Sumit-Dhakal GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Dhakal&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Dhakal&theme=light" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sumit-Dhakal" alt="Sumit-Dhakal Streak Stats" />
+  </picture>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-dhakal&" alt="sumit-dhakal" />
-</p>
-
----
 
 🚀 **Let's build amazing games together!**  
 Feel free to explore my repositories and connect with me for collaborations! 🎮
