@@ -43,6 +43,11 @@
 
 <br/>
 <hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sumit-Dhakal/Sumit-Dhakal/output/github-snake.svg" />
+</picture>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
